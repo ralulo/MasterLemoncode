@@ -1,0 +1,25 @@
+@import "./tema-1.css";
+.container-1
+{
+    display: inline-flex;
+
+    column-gap: 6px;
+    row-gap:6px;
+    flex-direction: column;
+
+}
+
+.divContenedor
+{
+    border-style:solid;
+    border-color: black;
+    
+}
+#divContenedorBoxShadow
+{
+    border-style:solid;
+    border-color: black;
+
+}
+
+

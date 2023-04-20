@@ -1,0 +1,19 @@
+:root{
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    color: hsl(330, 6%, 13%);
+    
+}
+
+.divContenedor{
+    border-radius: 1px;
+    background-color: #008cff;
+
+}
+
+#divContenedorBoxShadow{
+
+    border-radius: 1px;
+    box-shadow:  8px 10px #888888;
+    background-color: #00ff80;
+}
